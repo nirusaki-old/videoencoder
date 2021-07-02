@@ -1,1 +1,1 @@
-worker: sudo apt install pip && pip install -r requirements.txt && python3 -m Bot
+worker: apt install pip && pip install -r requirements.txt && python3 -m Bot
